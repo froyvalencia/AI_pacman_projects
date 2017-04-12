@@ -1,0 +1,15 @@
+model based learning 
+- learn an aproximate model based on experiences
+- solve for values as if the learned model were correct
+
+
+goal:
+compute afe of cs 188 student
+
+known p(a) 
+ = .35 X 20 + ...
+
+unknown p(a) model based
+^p = num(a) / N
+
+unknow p(a) model free
